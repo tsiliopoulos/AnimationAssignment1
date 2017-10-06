@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\tsili\OneDrive\Documents\Courses\INFR2310U - Animation - Algo & Tech\Assignments\Assignment 1\starter\include\TTK/Camera.h(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tsili\OneDrive\Documents\Courses\INFR2310U - Animation - Algo & Tech\Assignments\Assignment 1\starter\include\TTK/Camera.h(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tsili\OneDrive\Documents\Courses\INFR2310U - Animation - Algo & Tech\Assignments\Assignment 1\starter\include\TTK/Camera.h(46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(163): warning C4060: switch statement contains no 'case' or 'default' labels
+..\src\main.cpp(206): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(207): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(209): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(210): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(237): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+..\src\main.cpp(239): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(240): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(242): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\main.cpp(243): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  44 of 653 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tutorial 1.vcxproj -> C:\Users\tsili\OneDrive\Documents\Courses\INFR2310U - Animation - Algo & Tech\Assignments\Assignment 1\starter\x64\Release\Tutorial 4.exe
+  Tutorial 1.vcxproj -> C:\Users\tsili\OneDrive\Documents\Courses\INFR2310U - Animation - Algo & Tech\Assignments\Assignment 1\starter\x64\Release\Tutorial 4.pdb (Full PDB)
